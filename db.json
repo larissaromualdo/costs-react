@@ -1,31 +1,20 @@
 {
   "projects": [
     {
-      "id": "8f09",
-      "name": "projeto atualziado",
-      "budget": "543875543",
+      "id": "e5b0",
+      "name": "projeto atualizado",
+      "budget": "7000",
       "category": {
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
+      "cost": null,
       "services": []
     },
     {
-      "id": "70fe",
-      "name": "larissa",
-      "budget": "64534",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "0ee5",
-      "name": "ds",
-      "budget": "5343",
+      "id": "c3e9",
+      "name": "novo projeto",
+      "budget": "900",
       "category": {
         "id": "4",
         "name": "Planejamento"
